@@ -1,0 +1,4 @@
+﻿  hash.cpp
+C:\Users\HP\OneDrive\Desktop\Data Struct\Hashtable_w_linked_list\Hashtable_w_linked_list\hash.h(26,2): warning C4091: 'extern ': ignored on left of 'hash_table' when no variable is declared
+C:\Users\HP\OneDrive\Desktop\Data Struct\Hashtable_w_linked_list\Hashtable_w_linked_list\hash.cpp(12,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Hashtable_w_linked_list.vcxproj -> C:\Users\HP\OneDrive\Desktop\Data Struct\Hashtable_w_linked_list\x64\Debug\Hashtable_w_linked_list.exe
